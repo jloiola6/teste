@@ -1,5 +1,5 @@
 # Titulo do repositório
 
-![./img.png](IMAGEM)
+![imagem](img.png)
 
 Este repositório existe só para teste...
